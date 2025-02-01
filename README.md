@@ -10,9 +10,9 @@ Welcome to the **YouTube Demo Codes** repository! This repository contains the s
 ## 📂 Code Organization  
 Each folder is named after the corresponding YouTube video:  
 
-- 📺 **[Video 1 Title](https://github.com/your-username/youtube-demo-codes/tree/main/video-1-title)**  
-- 📺 **[Video 2 Title](https://github.com/your-username/youtube-demo-codes/tree/main/video-2-title)**  
-- 📺 **[Video 3 Title](https://github.com/your-username/youtube-demo-codes/tree/main/video-3-title)**  
+- 📺 **[Wrong Stats on Delta MERGE in Fabric - I](https://youtu.be/LDRTlP9jRIk)**  
+- 📺 **[Wrong Stats on Delta MERGE in Fabric - II](https://youtu.be/xqSuHMZxFUA)**  
+- 📺 **[Boost Performance with Fabric’s Native Execution Engin](https://youtu.be/MNJ0XtPsNa8)**  
 
 _(More will be added as new videos are published!)_  
 
