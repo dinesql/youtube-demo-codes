@@ -1,0 +1,5 @@
+chainlit
+langchain
+pyodbc
+python-dotenv
+openai
