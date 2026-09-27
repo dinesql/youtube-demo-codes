@@ -14,7 +14,8 @@ Each folder is named after the corresponding YouTube video:
 - 📺 **[Power BI Pro License: Essential for Microsoft Fabric or Optional?](https://youtu.be/TF56lcRlupc)**  
 - 📺 **[Wrong Stats on Delta MERGE in Fabric - I](https://youtu.be/LDRTlP9jRIk)**  
 - 📺 **[Wrong Stats on Delta MERGE in Fabric - II](https://youtu.be/xqSuHMZxFUA)**  
-- 📺 **[Boost Performance with Fabric’s Native Execution Engin](https://youtu.be/MNJ0XtPsNa8)**  
+- 📺 **[Boost Performance with Fabric’s Native Execution Engin](https://youtu.be/MNJ0XtPsNa8)**
+- 📺 **[Build AI-Powered Semantic Search in SQL Embeddings End to End](https://youtu.be/1TTLWCeZ6b0)**
 
 _(More will be added as new videos are published!)_  
 
